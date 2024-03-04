@@ -17,7 +17,7 @@ I'm also experienced in Docker 🐳 for containerization and have a strong backg
 
 Let's build something awesome together! 💻🚀"
 
-# Open Source projects
+# 🌱 Open Source projects
 
 - [YAMS](https://yams.media/): A higly opinionated media server. [![YAMS Gitlab Stars](https://img.shields.io/gitlab/stars/rogs%2Fyams)](https://gitlab.com/rogs/yams)
 - [ute](https://pypi.org/project/ute-wrapper/): A reverse engineering for UTE mobile app. [![UTE Gitlab Stars](https://img.shields.io/gitlab/stars/rogs%2Fute)](https://gitlab.com/rogs/ute)
